@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/public_html/wp-content/themes/Materiallize-PicFolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public_html/wp-content/themes/bootsrap4-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public_html/wp-content/themes/bt-sass-blank-theme" vcs="Git" />
   </component>
 </project>
