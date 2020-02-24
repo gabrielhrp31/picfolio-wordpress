@@ -1,0 +1,345 @@
+@charset "UTF-8";
+/*
+Theme Name: Bootstrap 4 Starter
+Theme URI: https://wordpress.org/themes/twentynineteen/
+Author: the WordPress team
+Author URI: https://github.com/gabrielhrp31
+Description: A simple theme with wordpress to start our design!
+Requires at least: WordPress 4.9.6
+Version: 1.0
+Text Domain: bootstrap4-starter
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images,
+*/
+
+/*********************************FONTS***********************/
+@import "https://fonts.googleapis.com/css?family=Bad+Script";
+
+.bad-script{
+    font-family: 'Bad Script';
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: var(--primary);
+}
+
+.list-group-item-action{
+    cursor: pointer;
+}
+
+.active{
+    background: var(--primary)!important;
+    border-color: var(--primary)!important;
+}
+/**************************SIDENAV*************************/
+.sombreado{
+    opacity: 95%;
+}
+header{
+    margin-top: 98px;
+}
+@media only screen and (max-width:992px){
+    #navbarNav{
+        left: 0;
+        top:0;
+        transform: translateX(-100%) translateY(0);
+        position: fixed;
+        width: 80%;
+        margin: 0!important;
+        padding: 0!important;
+        height: 100%!important;
+        z-index: 1000;
+        background-color: var(--primary);
+    }
+
+    #navbarNav .custom-logo-link{
+        width: 100%;
+        display: flex;
+        justify-content: center
+    }
+
+    .menu-item{
+        width: 100%;
+        padding:10px 20px;
+        border-top: 1px solid rgba(0,0,0,.15);
+        border-radius: unset;
+    }
+
+
+    .dropdown-menu{
+        background-color: transparent;
+        border:none;
+        padding: .1rem;
+    }
+
+
+    .overlay{
+        left: 0;
+        top:0;
+        z-index: 999;
+        transform: translateX(-100%) translateY(0);
+        position: fixed;
+        height: 100%;
+        width: 100%!important;
+        background-color:rgba(0, 0, 0, 0.3)!important;
+    }
+
+    .show-sidebar{
+        left: 0;
+        top:0;
+        transform: translateX(0) translateY(0)!important;
+        background-color: var(--primary);
+    }
+
+    .show{
+        left: 0;
+        top:0;
+        transform: translateX(0) translateY(0)!important;
+        position: absolute;
+    }
+    .show ul a{
+        background-color: var(--primary);
+        background-color: var(--light);
+    }
+
+    .close{
+        max-width: 20%;
+    }
+
+}
+/*--------------------------NAVBAR------------------------------------*/
+.custom-logo{
+    height: 90px;
+    width: auto;
+}
+.nav-item{
+    padding:0 2em;
+}
+
+@media only screen and (max-width:992px) {
+    .w-lg-100 {
+        width: 100%;
+    }
+}
+
+/****************************PORTFOLIO CSS**********************************/
+
+.snip1573 {
+    border-radius: 10px;
+    background-color: #000;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin: 10px 7px;
+    max-width: 315px;
+    min-width: 230px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.snip1573 * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+}
+
+.snip1573:before,
+.snip1573:after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+    background-color:  var(--black);
+    border-left: 3px solid #fff;
+    border-right: 3px solid #fff;
+    content: '';
+    opacity: 0.9;
+    z-index: 1;
+}
+
+.snip1573:before {
+    -webkit-transform: skew(45deg) translateX(-155%);
+    transform: skew(45deg) translateX(-155%);
+}
+
+.snip1573:after {
+    -webkit-transform: skew(45deg) translateX(155%);
+    transform: skew(45deg) translateX(155%);
+}
+
+.snip1573 img {
+    backface-visibility: hidden;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.snip1573 figcaption {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    z-index: 2;
+    -webkit-transform: translate(-50%, -50%) scale(0.5);
+    transform: translate(-50%, -50%) scale(0.5);
+    opacity: 0;
+    -webkit-box-shadow: 0 0 10px  var(--black);
+    box-shadow: 0 0 10px  var(--black);
+}
+
+.snip1573 h3 {
+    background-color: var(--black);
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+.snip1573 a {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 3;
+}
+
+.snip1573:hover > img,
+.snip1573.hover > img {
+    opacity: 0.5;
+}
+
+.snip1573:hover:before,
+.snip1573.hover:before {
+    -webkit-transform: skew(45deg) translateX(-55%);
+    transform: skew(45deg) translateX(-55%);
+}
+
+.snip1573:hover:after,
+.snip1573.hover:after {
+    -webkit-transform: skew(45deg) translateX(55%);
+    transform: skew(45deg) translateX(55%);
+}
+
+.snip1573:hover figcaption,
+.snip1573.hover figcaption {
+    -webkit-transform: translate(-50%, -50%) scale(1);
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+}
+/****************************JOBS-OVERLAY**********************************/
+
+.job {
+    position: relative;
+    width: 100%;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay-job {
+    position: absolute;
+    top: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    color: var(--white);
+    background-color: var(--primary);
+}
+
+.job:hover .overlay-job {
+    opacity: 0.8;
+}
+/****************************CAROUSEL**********************************/
+.pp_like {
+    color: var(--primary)!important;
+}
+.pp_like {
+    text-decoration: none!important;
+    box-shadow: none!important;
+}
+.liked {
+    color: var(--danger)!important;
+}
+/****************************CAROUSEL**********************************/
+
+.carousel{
+    overflow-y: hidden;
+    height: 200px;
+}
+
+.carousel-inner,.carousel-item{
+    height: 100%;
+}
+
+@media only screen and (min-width:768px){
+    .carousel{
+        height: 300px;
+    }
+}
+
+
+@media only screen and (min-width:992px){
+    .carousel{
+        height: 600px;
+    }
+    .carousel-item{
+        height: 100%;
+    }
+
+    .carousel img{
+        transform: translateY(-25%);
+    }
+}
+@media only screen and (min-width:1200px){
+    .carousel{
+        height: 800px;
+    }
+}
+.carousel-content h1,.carousel-content h2,.carousel-content h3,.carousel-content h4,.carousel-content h5,.carousel-content h6{
+    font-family: 'Bad Script';
+}
+
+
+@media only screen and (min-width:992px) {
+    .carousel-content h1, .carousel-content .h1 {
+        font-size: 4rem;
+    }
+
+    .carousel-content h2, .carousel-content .h2 {
+        font-size: 3.5rem;
+    }
+
+    .carousel-content h3, .carousel-content .h3 {
+        font-size: 3.25rem;
+    }
+
+    .carousel-content h4, .carousel-content .h4 {
+        font-size: 3rem;
+    }
+
+    .carousel-content h5, .carousel-content .h5 {
+        font-size: 2.75rem;
+    }
+
+    .carousel-content h6, .carousel-content .h6 {
+        font-size: 2.5rem;
+    }
+}
