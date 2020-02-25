@@ -38,12 +38,12 @@ h1,h2,h3,h4,h5,h6{
     cursor: pointer;
     padding: .75rem 1.25rem;
 }
-.category-navigate h5{
+.category-navigate .h5{
     margin:0;
     text-align: center;
 }
 
-.active-category h5{
+.active-category .h5{
     color: var(--danger)!important;
 }
 .active-category{
