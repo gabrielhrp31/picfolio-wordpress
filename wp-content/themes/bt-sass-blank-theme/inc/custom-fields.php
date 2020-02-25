@@ -35,7 +35,7 @@ class new_general_setting {
 
 	function funcao_whatsapp_field(){
 		$value = get_option( 'whatsapp_field', '' );
-		echo '<input type="tel" placeholder="+CADDDXXXXXXXXX"id="whatsapp_field" name="whatsapp_field" value="' . $value . '" />';
+		echo '<input type="tel" placeholder="https://api.whatsapp.com/send?phone=5537999999999"id="whatsapp_field" name="whatsapp_field" value="' . $value . '" />';
 		echo '<p><small><i>Numero do whatsapp</i></small></p>';
 	}
 }

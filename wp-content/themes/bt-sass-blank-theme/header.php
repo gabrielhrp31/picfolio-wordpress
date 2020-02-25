@@ -22,6 +22,8 @@
         wp_head();
     ?>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/4.0.9/inputmask/inputmask.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/4.0.9/inputmask/bindings/inputmask.binding.min.js"></script>
 </head>
 <body <?php echo body_class(); ?>>
     <nav id="navbar" class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary p-1">

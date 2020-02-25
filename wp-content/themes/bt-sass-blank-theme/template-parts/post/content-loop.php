@@ -1,5 +1,5 @@
 <article <?php post_class(array('entry')); ?> id="post-<?php the_ID(); ?>" role="article">
-    <h3 class="entry-title">
+    <h3 class="entry-title text-center">
         <a class="text-primary" href="<?php echo get_permalink(); ?>"><?php the_title(); ?></a>
     </h3>
     <section class="entry-content">

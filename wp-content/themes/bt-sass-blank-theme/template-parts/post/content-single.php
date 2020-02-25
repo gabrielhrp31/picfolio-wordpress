@@ -8,9 +8,9 @@ if(!empty($row1)){
     $l=1;
 }
 ?>
-<article <?php post_class(array('entry')); ?> id="post-<?php the_ID(); ?>" role="article" style="margin-top:98px;">
+<article <?php post_class(array('entry')); ?> id="post-<?php the_ID(); ?>" role="article">
     <div class="container">
-        <div class="row py-5">
+        <div class="row py-4">
             <div class="col-12">
                 <h1 class="entry-title text-center"><?php the_title(); ?></h1>
             </div>
@@ -24,7 +24,6 @@ if(!empty($row1)){
                         </span>
                         <span id="likes-text">
                             <?php echo (get_posts_like($postid)==0 || get_posts_like($postid)>1?"Curtidas":"Curtida"); ?>
-
                         </span>
                     </a>
                 </div>

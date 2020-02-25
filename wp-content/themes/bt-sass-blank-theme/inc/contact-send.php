@@ -26,8 +26,20 @@
 		}else{
 			$duration = trim( $form[ "duracao" ] );
 		}
+		if ( trim( $form[ "descricao" ] ) === "" ){
+			$errors['descricao'] =" Digite uma descrição ";
+			$hasError = true;
+		}else{
+			$duration = trim( $form[ "duracao" ] );
+		}
 		if ( trim( $form[ "telefone" ] ) === "" ){
 			$errors['telefone'] =" Digite uma Duração ";
+			$hasError = true;
+		}else{
+			$phone = trim( $form[ "telefone" ] );
+		}
+		if ( trim( $form[ "data" ] ) === "" ){
+			$errors['data'] ="Selecione a Data do Evento";
 			$hasError = true;
 		}else{
 			$phone = trim( $form[ "telefone" ] );
