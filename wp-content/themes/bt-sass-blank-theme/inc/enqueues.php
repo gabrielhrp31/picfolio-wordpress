@@ -39,7 +39,7 @@ function theme_enqueues_styles_scripts()
     //wp_enqueue_script( 'libs', get_stylesheet_directory_uri() . '/dist/js/libs.js' , array(), '1.0', true);
 
     // Default theme stylesheet
-    wp_enqueue_style('font', get_stylesheet_directory_uri() . '/node_modules/@fortawesome/fontawesome-free/css/all.css');
+    wp_enqueue_style('font', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js');
     wp_enqueue_style('theme', get_stylesheet_directory_uri() . '/dist/css/theme.css');
     wp_enqueue_style('style', get_stylesheet_directory_uri() . '/style.css');
 
