@@ -1,11 +1,12 @@
 <?php
 	function send_mail_setup(PHPMailer $phpmailer) {
 		$phpmailer->IsSMTP();
-		$phpmailer->Host = 'smtp.mailtrap.io';
+		$phpmailer->Host = 'mail.juliarezendefotografia.com.br';
 		$phpmailer->SMTPAuth = true;
-		$phpmailer->Port = 2525;
-		$phpmailer->Username = 'b07269bf755f2b';
-		$phpmailer->Password = '76c74665f65348';
+		$phpmailer->SMTPSecure = 'ssl';
+		$phpmailer->Port = 465;
+		$phpmailer->Username = 'contato@juliarezendefotografia.com.br';
+		$phpmailer->Password = '020716';
 	}
 
 	add_action('phpmailer_init', 'send_mail_setup');

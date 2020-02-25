@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea4a4a79-20f3-4a6f-b274-5bd7bd5d8a1d" name="Default Changelist" comment="terminar template email">
-      <change afterPath="$PROJECT_DIR$/juliarfotografia (1).sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/js/owlcarousel/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="ea4a4a79-20f3-4a6f-b274-5bd7bd5d8a1d" name="Default Changelist" comment="tudo ok!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dump.old.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dump.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/archive.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/inc/contact-send.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/inc/contact-send.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/mails/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/mails/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/template-parts/page/content-contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/template-parts/page/content-contact.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +45,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -157,7 +140,7 @@
       <workItem from="1582495018415" duration="14451000" />
       <workItem from="1582557586818" duration="148000" />
       <workItem from="1582558893464" duration="7009000" />
-      <workItem from="1582590588873" duration="30498000" />
+      <workItem from="1582590588873" duration="31045000" />
     </task>
     <task id="LOCAL-00001" summary="faltando apenas formulario de contato e footer">
       <created>1582520975210</created>
@@ -194,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582610029024</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tudo ok!">
+      <created>1582648076230</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582648076230</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +209,8 @@
     <MESSAGE value="faltando apenas enviar formulario de contato e footer" />
     <MESSAGE value="envio de email ok, faltando footer e validações do form de email" />
     <MESSAGE value="terminar template email" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminar template email" />
+    <MESSAGE value="tudo ok!" />
+    <option name="LAST_COMMIT_MESSAGE" value="tudo ok!" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>D:\Users\gabri\Documentos\Sites\Julia-Rezende-Fotografia\public_html</wordpressPath>
