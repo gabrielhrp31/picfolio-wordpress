@@ -40,7 +40,7 @@ function theme_enqueues_styles_scripts()
 
     // Default theme stylesheet
     wp_enqueue_style('font', get_stylesheet_directory_uri() . '/dist/css/theme.css');
-    wp_enqueue_style('theme', get_stylesheet_directory_uri() . '/dist/css/fontawesome/css/all.css');
+    wp_enqueue_style('theme', get_stylesheet_directory_uri() . '/dist/fontawesome/css/all.css');
     wp_enqueue_style('style', get_stylesheet_directory_uri() . '/style.css');
 
     // Default js of your theme to add your own js scripts, add dependances if needed
