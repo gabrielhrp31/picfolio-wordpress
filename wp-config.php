@@ -82,7 +82,7 @@ $table_prefix  = 'jrf_';
  *
  * @link https://codex.wordpress.org/pt-br:Depura%C3%A7%C3%A3o_no_WordPress
  */
-define('WP_DEBUG', true);
+define('WP_DEBUG', false);
 
 /* Isto é tudo, pode parar de editar! :) */
 
