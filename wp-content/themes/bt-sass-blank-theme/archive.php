@@ -24,15 +24,15 @@
                 <div class="col-12">
                     <div class="row justify-content-center">
                         <div class="category-navigate col-3 col-lg-2 mb-3 <?php echo ($category->slug=="portfolio"?'active-category':'') ?>"  data-url="<?php echo get_category_link($category_id)?>">
-                            <h5>
+                            <p class="h5">
                                 Todos
-                            </h5>
+                            </p>
                         </div>
                         <?php foreach ($categories as $current):  ?>
                             <div class="category-navigate col-3 col-lg-2 mb-3 <?php echo ($current->term_id==$category->term_id?'active-category':'') ?>" data-url="<?php echo get_category_link($current->term_id)?>">
-                                <h5>
+                                <p class="h5">
 	                                <?php echo $current->name ?>
-                                </h5>
+                                </p>
                             </div>
                         <?php endforeach; ?>
                     </div>
