@@ -1,269 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea4a4a79-20f3-4a6f-b274-5bd7bd5d8a1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/brands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/brands.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/conflict-detection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/conflict-detection.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/fontawesome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/fontawesome.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/regular.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/regular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/solid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/solid.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/v4-shims.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/js/v4-shims.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_shims.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/_variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/brands.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/fontawesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/regular.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/solid.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/less/v4-shims.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/metadata/categories.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/metadata/icons.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/metadata/icons.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/metadata/shims.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/metadata/shims.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/metadata/sponsors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_shims.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/brands.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/fontawesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/regular.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/solid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/scss/v4-shims.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/sprites/brands.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/sprites/regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/sprites/solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/500px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/accessible-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/accusoft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/acquisitions-incorporated.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/adn.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/adobe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/adversal.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/affiliatetheme.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/airbnb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/algolia.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/alipay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/amazon-pay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/amazon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/amilia.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/android.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/angellist.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/angrycreative.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/angular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/brands/app-store-ios.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/address-book.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/address-card.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/angry.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/arrow-alt-circle-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/arrow-alt-circle-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/arrow-alt-circle-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/arrow-alt-circle-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/bell-slash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/bell.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/bookmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/building.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/calendar-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/calendar-check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/calendar-minus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/calendar-plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/calendar-times.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/caret-square-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/caret-square-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/caret-square-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/caret-square-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/chart-bar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/check-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/check-square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/clipboard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/clone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/closed-captioning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/comment-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/comment-dots.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/comment.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/comments.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/compass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/copy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/copyright.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/credit-card.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/dizzy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/dot-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/edit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/envelope-open.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/envelope.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/eye-slash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/eye.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-archive.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-audio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-code.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-excel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-pdf.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-powerpoint.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-video.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file-word.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/flag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/flushed.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/folder-open.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/folder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/font-awesome-logo-full.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/frown-open.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/frown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/futbol.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/gem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grimace.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-beam-sweat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-beam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-hearts.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-squint-tears.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-squint.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-stars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-tears.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-tongue-squint.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-tongue-wink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-tongue.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin-wink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/grin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-lizard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-paper.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-peace.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-point-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-point-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-point-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-point-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-pointer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-rock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-scissors.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hand-spock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/handshake.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hdd.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hospital.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/hourglass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/id-badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/id-card.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/images.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/keyboard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/kiss-beam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/kiss-wink-heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/kiss.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/laugh-beam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/laugh-squint.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/laugh-wink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/laugh.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/lemon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/life-ring.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/lightbulb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/list-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/meh-blank.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/meh-rolling-eyes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/meh.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/minus-square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/money-bill-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/moon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/newspaper.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/object-group.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/object-ungroup.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/paper-plane.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/pause-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/play-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/plus-square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/question-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/registered.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/sad-cry.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/sad-tear.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/save.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/share-square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/smile-beam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/smile-wink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/smile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/snowflake.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/star-half.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/sticky-note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/stop-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/sun.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/surprise.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/thumbs-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/thumbs-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/times-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/tired.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/trash-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/user-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/window-close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/window-maximize.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/window-minimize.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/svgs/regular/window-restore.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/dist/css/fontawesome/fontawesome-free-5.12.1-web/webfonts/fa-solid-900.woff2" afterDir="false" />
+    <list default="true" id="ea4a4a79-20f3-4a6f-b274-5bd7bd5d8a1d" name="Default Changelist" comment="tudo ok!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/inc/enqueues.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/inc/enqueues.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/bt-sass-blank-theme/front-page.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -340,15 +80,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgramFiles\xampp\htdocs\juliarezendefotografia\wp-content\themes\bt-sass-blank-theme\dist\fontawesome" />
+      <recent name="D:\ProgramFiles\xampp\htdocs\juliarezendefotografia\wp-content\themes\bt-sass-blank-theme\assets\scss" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ProgramFiles\xampp\htdocs\juliarezendefotografia\wp-content\themes\bt-sass-blank-theme\dist\css" />
       <recent name="D:\ProgramFiles\xampp\htdocs\juliarezendefotografia\wp-content\themes\bt-sass-blank-theme\js" />
       <recent name="D:\ProgramFiles\xampp\htdocs\juliarezendefotografia\wp-content\themes\bt-sass-blank-theme\imgs" />
       <recent name="D:\Users\gabri\Documentos\Pessoal\Sites\Julia-Rezende-Fotografia\public_html\wp-content\themes\bt-sass-blank-theme" />
       <recent name="D:\Users\gabri\Documentos\Pessoal\Sites\Julia-Rezende-Fotografia\public_html\wp-content\themes\bt-sass-blank-theme\inc" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ProgramFiles\xampp\htdocs\juliarezendefotografia\wp-content\themes\bt-sass-blank-theme\assets\scss" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -464,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582649869288</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="tudo ok!">
+      <created>1582650828021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582650828021</updated>
+    </task>
+    <task id="LOCAL-00011" summary="tudo ok!">
+      <created>1582650943221</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582650943221</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

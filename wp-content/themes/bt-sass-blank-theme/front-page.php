@@ -68,7 +68,7 @@
                     $categories = get_categories(array('child_of'=>$category_id,'hide_empty'=>0,'orderby'=>'id','order'=>'ASC'));
                     foreach ($categories as $category):
                 ?>
-                        <div class="col-6 col-lg-4 d-flex justify-content-center">
+                        <div class="col col-lg-4 d-flex justify-content-center">
                             <figure class="snip1573">
                                 <?php
                                 $image_id = get_term_meta (  $category->cat_ID, 'category-image-id', true );
