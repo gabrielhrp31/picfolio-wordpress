@@ -24,13 +24,13 @@
 			$errors['duracao'] =" Digite uma Duração ";
 			$hasError = true;
 		}else{
-			$duration = trim( $form[ "duracao" ] );
+			$duracao = trim( $form[ "duracao" ] );
 		}
 		if ( trim( $form[ "descricao" ] ) === "" ){
 			$errors['descricao'] =" Digite uma descrição ";
 			$hasError = true;
 		}else{
-			$duration = trim( $form[ "duracao" ] );
+			$descricao = trim( $form[ "descricao" ] );
 		}
 		if ( trim( $form[ "telefone" ] ) === "" ){
 			$errors['telefone'] =" Digite uma Duração ";
@@ -42,7 +42,7 @@
 			$errors['data'] ="Selecione a Data do Evento";
 			$hasError = true;
 		}else{
-			$phone = trim( $form[ "telefone" ] );
+			$data = trim( $form[ "data" ] );
 		}
 		if ( trim( $form[ "event_type" ] ) === "" ){
 			$errors['event_type'] =" Digite um tipo de evento!";
@@ -77,7 +77,7 @@
 			wp_mail( $emailTo, $subject, $body, $headers );
 			$emailSent = true;
 		}
-		$data=array('sucess'=>$emailSent,'errors'=>$errors);
+		$data=array('success'=>$emailSent,'errors'=>$errors);
 		echo json_encode($data);
 		die(); // this is required to return a proper result
 	}

@@ -126,7 +126,6 @@
             <div class="row mt-5 justify-content-center">
                 <a href="<?php echo get_category_link($category_id)?>" class="btn btn-primary font-weight-bold py-2 px-4">
                     <h4 class="text-white mb-0">Ver Mais <i class="fas fa-angle-right"></i></h4>
-
                 </a>
             </div>
         </div>
@@ -138,4 +137,6 @@
 	        ?>
         </div>
     </section>
+    <div id="instagram-slider" class="owl-carousel owl-theme">
+    </div>
 <?php get_footer(); ?>

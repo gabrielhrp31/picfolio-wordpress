@@ -40,13 +40,13 @@
             </div>
         </div>
         <div class="container-fluid px-0 py-4">
-            <div class="row align-items-center m-0" style="min-height: 400px">
+            <div class="row m-0" style="min-height: 400px">
                 <?php
                     if ( $query->have_posts() ) :
                         while ( $query->have_posts() ) :
                             $query->the_post();
                             ?>
-                            <div class="col-6 col-md-3 p-0">
+                            <div class="col-6 col-lg-4 col-xl-3 p-0">
                                 <?php get_template_part('template-parts/post/content', 'job'); ?>
                             </div>
                         <?php

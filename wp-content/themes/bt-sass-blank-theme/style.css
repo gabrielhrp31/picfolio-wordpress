@@ -62,6 +62,30 @@ h1,h2,h3,h4,h5,h6{
     background: white;
     color: var(--primary);
 }
+
+.fa-instagram {
+    color: transparent;
+    background: -webkit-radial-gradient(30% 107%, circle, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -o-radial-gradient(30% 107%, circle, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.fa-whatsapp{
+    color: transparent;
+    background:#00E676;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.fa-facebook-f{
+    color: transparent;
+    background:#1778F2;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
 /**************************FORM*************************/
 .form-control {
     border:1px solid var(--primary);
@@ -77,12 +101,46 @@ h1,h2,h3,h4,h5,h6{
     box-shadow: none!important;
 }
 /**************************SIDENAV*************************/
+.custom-logo{
+    height: 90px;
+    width: auto;
+}
+.nav-item{
+    padding:0 2em;
+}
+
+@media only screen and (max-width:992px) {
+    .w-lg-100 {
+        width: 100%;
+    }
+}
+
 .sombreado{
     opacity: 95%;
 }
 body{
     padding-top: 98px;
 }
+
+
+.dropdown-menu {
+    background: var(--primary);
+    padding:0 ;
+}
+.dropdown-menu .nav-item{
+    padding:0 0;
+    color: white;
+}
+.dropdown-menu .nav-item a{
+    padding-top:  5px;
+    padding-bottom:  5px;
+    color: white;
+}
+.dropdown-menu .nav-item:hover a{
+    color: var(--primary);
+}
+
+
 @media only screen and (max-width:992px){
     #navbarNav{
         left: 0;
@@ -111,11 +169,10 @@ body{
 
 
     .dropdown-menu{
-        background-color: transparent;
         border:none;
-        padding: .1rem;
+        padding:0 .1rem!important;
+        margin: 0!important;
     }
-
 
     .overlay{
         left: 0;
@@ -135,30 +192,17 @@ body{
         background-color: var(--primary);
     }
 
-    .show{
+    .overlay.show{
         left: 0;
         top:0;
         transform: translateX(0) translateY(0)!important;
         position: absolute;
     }
+
     .close{
         max-width: 20%;
     }
 
-}
-/*--------------------------NAVBAR------------------------------------*/
-.custom-logo{
-    height: 90px;
-    width: auto;
-}
-.nav-item{
-    padding:0 2em;
-}
-
-@media only screen and (max-width:992px) {
-    .w-lg-100 {
-        width: 100%;
-    }
 }
 
 /****************************PORTFOLIO CSS**********************************/
@@ -306,6 +350,46 @@ body{
 
 .job:hover .overlay-job {
     opacity: 0.8;
+}
+/****************************INSTAGRAM-OVERLAY**********************************/
+
+.instagram-post {
+    position: relative;
+    width: 100%;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.instagram-overlay{
+    padding: 2em;
+    position: absolute;
+    top: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    color: var(--white);
+    background-color: var(--primary);
+}
+.instagram-overlay:hover{
+    text-decoration: none!important;
+}
+
+.instagram-post:hover .instagram-overlay{
+    opacity: 0.8;
+}
+.instagram-overlay p{
+    text-align: center;
+    color: white;
 }
 /****************************CAROUSEL**********************************/
 .pp_like {

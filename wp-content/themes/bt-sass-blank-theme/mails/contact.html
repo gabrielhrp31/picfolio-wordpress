@@ -14,6 +14,10 @@
                 width:100%;
                 height: auto;
             }
+            p{
+                text-align: center;
+                color:var(--primary);
+            }
         </style>
 	</head>
 	<body class="bg-secondary">
@@ -30,6 +34,15 @@
             <div class="row">
                 <div class="col-12">
                     <h5 class="text-center text-primary">Contato do Site - <?php echo $name ?></h5>
+                </div>
+                <div class="col-12">
+                    <p><b>Nome:</b> <?php echo $name ?></p>
+                    <p><b>Email:</b> <?php echo $email ?></p>
+                    <p><b>Data:</b> <?php echo $data ?></p>
+                    <p><b>Duração:</b> <?php echo $duracao ?></p>
+                    <p><b>Telefone:</b> <?php echo $phone ?></p>
+                    <p><b>Tipo de Evento:</b> <?php echo $eventType ?></p>
+                    <p><b>Descrição:</b> <?php echo $descricao ?></p>
                 </div>
             </div>
         </div>

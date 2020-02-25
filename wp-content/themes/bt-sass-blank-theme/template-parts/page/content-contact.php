@@ -1,4 +1,4 @@
-<form action="<?php echo site_url(); ?>" id="contact-form" method="POST" class="container my-4">
+<form action="" id="contact-form" method="POST" class="container my-4">
 	<div class="row">
 		<div class="col-12">
 			<h3 class="text-center">
@@ -55,6 +55,7 @@
         <input type=”hidden” name=”submitted” id=”submitted” value=”true” class="d-none"/>
 	</div>
 </form>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.all.min.js"></script>
 <script>
     $(document).ready(function () {
 
@@ -75,7 +76,13 @@
             };
             $.post(MyAjax.ajaxurl, data, function(res) {
                 var result=jQuery.parseJSON( res );
-                console.log(result);
+                if(result.success){
+                    Swal.fire(
+                        'Contato Enviado com Sucesso!',
+                        'Em breve te retornarei por email, ou ligação!',
+                        'success'
+                    )
+                }
                 Object.keys(result.errors).forEach(function(k){
                     clear_errors();
                     setTimeout(function () {
