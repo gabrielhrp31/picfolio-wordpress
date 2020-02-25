@@ -2,33 +2,33 @@
 
 function post_views_table_create() {
 
-global $wpdb;
-$table_name = $wpdb->prefix. "post_views_table";
-global $charset_collate;
-$charset_collate = $wpdb->get_charset_collate();
-global $db_version;
+	global $wpdb;
+	$table_name = $wpdb->prefix. "post_views_table";
+	global $charset_collate;
+	$charset_collate = $wpdb->get_charset_collate();
+	global $db_version;
 
-if( $wpdb->get_var("SHOW TABLES LIKE '" . $table_name . "'") != $table_name)
-{ $create_sql = "CREATE TABLE " . $table_name . " (
-id INT(11) NOT NULL auto_increment,
-postid INT(11) NOT NULL ,
+	if( $wpdb->get_var("SHOW TABLES LIKE '" . $table_name . "'") != $table_name)
+	{ $create_sql = "CREATE TABLE " . $table_name . " (
+	id INT(11) NOT NULL auto_increment,
+	postid INT(11) NOT NULL ,
+	
+	clientip VARCHAR(40) NOT NULL ,
+	
+	PRIMARY KEY (id))$charset_collate;";
+	    require_once(ABSPATH . "wp-admin/includes/upgrade.php");
+	    dbDelta( $create_sql );
+	}
 
-clientip VARCHAR(40) NOT NULL ,
-
-PRIMARY KEY (id))$charset_collate;";
-    require_once(ABSPATH . "wp-admin/includes/upgrade.php");
-    dbDelta( $create_sql );
-}
 
 
-
-//register the new table with the wpdb object
-if (!isset($wpdb->post_views_table))
-{
-    $wpdb->post_views_table = $table_name;
-//add the shortcut so you can use $wpdb->stats
-    $wpdb->tables[] = str_replace($wpdb->prefix, '', $table_name);
-}
+	//register the new table with the wpdb object
+	if (!isset($wpdb->post_views_table))
+	{
+	    $wpdb->post_views_table = $table_name;
+	//add the shortcut so you can use $wpdb->stats
+	    $wpdb->tables[] = str_replace($wpdb->prefix, '', $table_name);
+	}
 
 }
 add_action( 'init', 'post_views_table_create');

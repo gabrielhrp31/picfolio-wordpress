@@ -10,6 +10,7 @@ include ('inc/custom-fields.php');
 include ('inc/categories-image.php');
 include ('inc/post-like.php');
 include ('inc/post-views.php');
+include ('inc/contact-send.php');
 
 /**
  * Don't hesitate to use the WP code snippet generator Hasty : https://www.wp-hasty.com/

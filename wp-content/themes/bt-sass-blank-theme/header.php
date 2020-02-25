@@ -21,6 +21,7 @@
         // ENQUEUE your css and js in inc/enqueues.php
         wp_head();
     ?>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body <?php echo body_class(); ?>>
     <nav id="navbar" class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary p-1">
