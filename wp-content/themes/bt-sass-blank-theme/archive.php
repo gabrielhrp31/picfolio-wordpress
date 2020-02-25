@@ -23,13 +23,13 @@
             <div class="row justify-content-center py-4">
                 <div class="col-12">
                     <div class="row justify-content-center">
-                        <div class="category-navigate col-3 col-lg-2 mb-3 <?php echo ($category->slug=="portfolio"?'active-category':'') ?>"  data-url="<?php echo get_category_link($category_id)?>">
+                        <div class="category-navigate col-5 col-lg-2 mb-3 <?php echo ($category->slug=="portfolio"?'active-category':'') ?>"  data-url="<?php echo get_category_link($category_id)?>">
                             <p class="h5 text-primary mb-0 text-center">
                                 Todos
                             </p>
                         </div>
                         <?php foreach ($categories as $current):  ?>
-                            <div class="category-navigate col-6 col-lg-2 mb-3 <?php echo ($current->term_id==$category->term_id?'active-category':'') ?>" data-url="<?php echo get_category_link($current->term_id)?>">
+                            <div class="category-navigate col-5 col-lg-2 mb-3 <?php echo ($current->term_id==$category->term_id?'active-category':'') ?>" data-url="<?php echo get_category_link($current->term_id)?>">
                                 <p class="h5 text-primary mb-0 text-center">
 	                                <?php echo $current->name ?>
                                 </p>
