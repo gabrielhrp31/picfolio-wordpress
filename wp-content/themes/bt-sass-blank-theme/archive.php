@@ -29,7 +29,7 @@
                             </p>
                         </div>
                         <?php foreach ($categories as $current):  ?>
-                            <div class="category-navigate col-3 col-lg-2 mb-3 <?php echo ($current->term_id==$category->term_id?'active-category':'') ?>" data-url="<?php echo get_category_link($current->term_id)?>">
+                            <div class="category-navigate col-6 col-lg-2 mb-3 <?php echo ($current->term_id==$category->term_id?'active-category':'') ?>" data-url="<?php echo get_category_link($current->term_id)?>">
                                 <p class="h5 text-primary mb-0 text-center">
 	                                <?php echo $current->name ?>
                                 </p>
