@@ -16,9 +16,7 @@
     </div>
     <div class="container-fluid bg-primary">
         <div class="row align-items-center justify-content-center text-white py-2 font-weight-bold">
-                Júlia Rezende Fotografia -
-                By <img src="<?php echo get_template_directory_uri().'/imgs/logo-rodape.jpg' ?>" alt="JPG APPS & WEB" style="width:80px;" class="rounded mx-3">
-                Apps e Web
+            Júlia Rezende Fotografia - By <a href="https://gabrielhrp31.com/" target="_blank" >Gabriel Rodrigues</a>
         </div>
     </div>
 </footer>
