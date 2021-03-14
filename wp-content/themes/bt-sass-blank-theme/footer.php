@@ -16,7 +16,7 @@
     </div>
     <div class="container-fluid bg-primary">
         <div class="row align-items-center justify-content-center text-white py-2 font-weight-bold">
-            Júlia Rezende Fotografia - By <a href="https://gabrielhrp31.com/" target="_blank" class="text-white" > Gabriel Rodrigues</a>
+            Júlia Rezende Fotografia - By <a href="https://gabrielhrp31.com/" target="_blank" class="text-white ml-2" > Gabriel Rodrigues</a>
         </div>
     </div>
 </footer>
